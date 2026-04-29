@@ -28,7 +28,7 @@ Integro **ChatGPT** como un copiloto en mi proceso de aprendizaje para:
 ---
 
 ### 📂 Evidencias de Aprendizaje
-* [Ver Documento de Muestra](https://docs.google.com/tu-enlace-aqui) (Enlace a mi trabajo en Google Docs).
+* [Ver Documento de Muestra]([https://docs.google.com/tu-enlace-aqui](https://drive.google.com/file/d/1ToUmePbsk5YceSQAQzULmIXt9H51CRM8/view?usp=sharing)) (Enlace a mi trabajo en Google Docs).
 
 ---
 **Estudiante:** [Tu Nombre Aquí]  
